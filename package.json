@@ -1,6 +1,6 @@
 {
   "name": "@jonny/react-native-mock",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "public": true,
   "description": "A fully mocked and test-friendly version of react native",
   "main": "build/react-native.js",
