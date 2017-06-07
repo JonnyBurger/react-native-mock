@@ -1,6 +1,7 @@
 {
-  "name": "react-native-mock",
-  "version": "0.3.1",
+  "name": "@jonny/react-native-mock",
+  "version": "0.3.4",
+  "public": true,
   "description": "A fully mocked and test-friendly version of react native",
   "main": "build/react-native.js",
   "scripts": {
@@ -51,7 +52,6 @@
     "keymirror": "^0.1.1",
     "prop-types": "^15.5.6",
     "raf": "^3.2.0",
-    "react-addons-perf": "^15.4.0",
     "react-dom": "^15.5.0",
     "react-test-renderer": "^15.5.0",
     "react-timer-mixin": "^0.13.3",
