@@ -117,7 +117,7 @@ const ReactNativeAddons = {
   // update: require('react-addons-update'), deprecated
 };
 
-Object.assign(ReactNative, React, { addons: ReactNativeAddons });
+//Object.assign(ReactNative, React, { addons: ReactNativeAddons });
 
 // Global properties defined in https://github.com/facebook/react-native/blob/master/Libraries/Core/InitializeCore.js
 defineGlobalProperty('XMLHttpRequest', () => require('./Libraries/Network/XMLHttpRequest'));
